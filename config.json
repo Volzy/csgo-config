@@ -1,7 +1,7 @@
 [
   {
-    id: 'volzy',
-    name: 'volzy',
-    cfg: 'https://raw.githubusercontent.com/Volzy/csgo-config/main/volzy/autoexec.cfg'
+    "id": "volzy",
+    "name": "volzy",
+    "cfg": "https://raw.githubusercontent.com/Volzy/csgo-config/main/volzy/autoexec.cfg"
   }
 ]
